@@ -1,3 +1,6 @@
+Proje Vercel Linki: https://fsweb-frontend-challenge-tegeyuce.vercel.app
+
+
 # Sprint Challenge: _Kişisel Web Sitesi_
 
 ## Proje Açıklaması
